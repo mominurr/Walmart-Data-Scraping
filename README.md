@@ -188,8 +188,9 @@ These files illustrate the kind of information collected from RealSelf, making i
 
 For any inquiries or service requests, please reach out to me via LinkedIn or visit my portfolio website:
 
-- **LinkedIn**: [Mominur Rahman](https://www.linkedin.com/in/mominur--rahman/)
-- **Portfolio Website**: [mominur.dev](https://mominur.dev)
-- **Blog Posts**: [Mominur's Blog](https://mominur.dev/posts.html)
+- **Portfolio:** [mominur.dev](https://mominur.dev)
+- **GitHub:** [github.com/mominurr](https://github.com/mominurr)
+- **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
+- **Email:** mominurr518@gmail.com
 
 I look forward to connecting with you!
