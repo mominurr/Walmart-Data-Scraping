@@ -2,6 +2,16 @@
 
 This project successfully scrapes comprehensive product data from [Walmart.com](https://www.walmart.com/), overcoming multiple security challenges to provide structured data in JSON format. You’ll find a sample dataset included for reference.
 
+# ⚠️ **Important Notice: Business Use Only** ⚠️
+
+This repository is for **demonstration purposes only** and **not for free use**. It showcases my professional expertise in **web scraping** and **automation**.
+
+🚫 **Unauthorized use, redistribution, or modification is strictly prohibited.**
+
+💼 **For custom web scraping and automation solutions, please contact me directly for professional, business-focused services.**
+
+📩 [Get in Touch](https://mominur.dev)
+
 ## Project Overview
 
 - **Website**: Walmart.com
